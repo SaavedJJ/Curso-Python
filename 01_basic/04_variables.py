@@ -3,6 +3,9 @@
 # lenguaje de tipado dinamico y fuerte
 ###
 
+import os 
+os.system("cls")
+
 my_name = "socrates"
 print(my_name)
 
@@ -51,5 +54,5 @@ MI_CONSTANTE = 3.14 # No exiten constantes en python, pero se recomienda usar ma
 is_user_logged_in: bool = True # booleano
 print(is_user_logged_in)
 
-is_user_logged_in = 41
+# is_user_logged_in = 41
 print(is_user_logged_in) # No se recomienda cambiar el tipo de variable, pero es posible

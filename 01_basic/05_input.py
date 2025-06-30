@@ -3,6 +3,9 @@
 # La funcion input() permite al usuario introducir datos desde el teclado.
 ###
 
+import os 
+os.system("cls")
+
 name = input("Introduce tu nombre: \n")
 print(f"Hola, {name}!")
 

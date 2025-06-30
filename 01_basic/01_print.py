@@ -1,5 +1,9 @@
 # 01 - print()
 # Modulo para imprimir por consola
+
+import os 
+os.system("cls")
+
 print("¡Hola, mundo!")                     
 
 print("python","es","genial")

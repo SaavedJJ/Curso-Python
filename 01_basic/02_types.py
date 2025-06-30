@@ -4,6 +4,9 @@
 # int, float, complex, str, bool, NoneType, list, tuple, dict, range, set ...
 ###
 
+import os 
+os.system("cls")
+
 print("int:")
 print(type(10))
 print(0)

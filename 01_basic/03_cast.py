@@ -3,6 +3,9 @@
 # transformar un tipo de un valor a otro
 ###
 
+import os 
+os.system("cls")
+
 print("Conversion de tipos")
 print(type(int("100")))
 
